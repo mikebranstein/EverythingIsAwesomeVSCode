@@ -1,6 +1,6 @@
-# helloWorld
+# Sample Code and Presentation for "Everything is Awesome...when you're using Visual Studio Code"
 
-**Generated from HotTowel Angular**
+**Code Generated from HotTowel Angular**
 
 >*Opinionated Angular style guide for teams by [@john_papa](//twitter.com/john_papa)*
 
